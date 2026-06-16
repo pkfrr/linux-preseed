@@ -1,0 +1,29 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ISO images (too large)
+*.iso
+*.iso.gz
+
+# Logs
+*.log
+*.out
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Config backups
+*.cfg.bak
+*.cfg.orig
